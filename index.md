@@ -1,4 +1,6 @@
-Week 4 lab 2-18-2022. This we learned about various OSINT tools. Like viewdns.info and archive.org. These are great tools to track down websites that exist or may no longer exist. The information found can be used to dertermine if the website is legitimate or just used tricking search engine algorithms.
+Week 5 Lab 3 2-25-2022. This week we did mobile malware analysis. We used MobSF to analyze malware files, find hashes, id's. I was able to view the full source code of mobile malware. Virustotal.com provided depper analysis from different antivirus software. It was cool that you could just upload a file or a hash. I had never used "Get-FileHash" before. I may start finding more ways to use that command.
+
+Week 4 lab 2-18-2022. This weeek we learned about various OSINT tools. Like viewdns.info and archive.org. These are great tools to track down websites that exist or may no longer exist. The information found can be used to dertermine if the website is legitimate or just used tricking search engine algorithms.
 
 Week 3 Lab 2-11-2022: Reviewed different attack vectors such as social engineering, password cracking, and malware. Tried different simluation rooms like main in the middle showing how https and vpn can prevent a hacker or another entitiy from snooping in. 
 
