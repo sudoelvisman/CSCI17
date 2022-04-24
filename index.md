@@ -1,4 +1,4 @@
-Week 4/23/2022. The whole set of aircrack tools is something I will have to spend more time exploring. Learned about SSID's, BSSID's, and ESSID's. WPA-2 isn't perfect and still very vulnerable. Kali has an existing word list that we used to find the password from the .cap file.
+Week 13 4/23/2022. The whole set of aircrack tools is something I will have to spend more time exploring. Learned about SSID's, BSSID's, and ESSID's. WPA-2 isn't perfect and still very vulnerable. Kali has an existing word list that we used to find the password from the .cap file.
 
 Week 12 Lab 12 4/16/2022. This week in Tryhackme I deployed a vulnerable machine and used nmap to enumerate a machine for SMB shares. This was an interesting CTF because we were exploiting a network file system to root access to a Linux machine named "Kenobi." An interesting mistake towards the end of the lab was the section on Privilege escalation. If not done properly or changing to the wrong directory you would lose root access to the target machine.
 
