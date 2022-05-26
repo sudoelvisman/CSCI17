@@ -1,3 +1,35 @@
+****************************************************************************************************************************************************************************
+                                                                                FINAL
+Challenge 1  Obedient Cat                                                                              
+![snip1](https://user-images.githubusercontent.com/98431057/170601123-7f7d5f71-eb1d-4732-bf84-b3dbae732aed.PNG)
+The challenge gave a file named file. After downloading the file and checking the properties for the file type, the file type was file. I decided to just open the file in notepad and the flag was there.
+
+Challenge 2 Rot13 Cryptography
+![snip1](https://user-images.githubusercontent.com/98431057/170601942-bd2b3f15-5c92-4ab7-ae30-d02b6946df4c.PNG)
+The rot13 is a simpler form of encryption. There are many online decryptors. I used rot13.com to decrypt and find the flag. It was as simple as copy/paste. The encrypted form was:cvpbPGS{arkg_gvzr_V'yy_gel_2_ebhaqf_bs_ebg13_GYpXOHqX} The decrypted output is: picoCTF{next_time_I'll_try_2_rounds_of_rot13_TLcKBUdK}
+
+Challenge 3 Python Wrangling
+![first step mistake](https://user-images.githubusercontent.com/98431057/170602280-d3c5d57d-2e85-4983-9fe6-7f938f4f9a8a.PNG)
+My first step was copy the code into an online compiler like replit.com
+The program did not compile properly. It did allow me to enter the password into a pseudo terminal but it did not work.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+****************************************************************************************************************************************************************************
 Week 15 5/27/2022. Investigating Windows. This was a form of cyper forensics on a compromised machine. Had to find which users had admin priviliges and when were their last logins. Anything that seemed out of place. Scheduled task was created to clean system files to hide malicious activity. Discovering when escalation of privileges was done. Finding malicious file in system 32 directory that connected the host to an IP the attacker controlled.
 
 Week 13 4/23/2022. The whole set of aircrack tools is something I will have to spend more time exploring. Learned about SSID's, BSSID's, and ESSID's. WPA-2 isn't perfect and still very vulnerable. Kali has an existing word list that we used to find the password from the .cap file.
