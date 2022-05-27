@@ -1,5 +1,3 @@
-
-                                                                              FINAL
 Challenge 1  Obedient Cat                                                                              
 
 ![snip1](https://user-images.githubusercontent.com/98431057/170605721-17d0db10-947c-49d3-b193-de98512d69cc.PNG)
