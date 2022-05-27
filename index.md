@@ -1,6 +1,7 @@
-****************************************************************************************************************************************************************************
-                                                                                FINAL
+
+                                                                              FINAL
 Challenge 1  Obedient Cat                                                                              
+
 ![snip1](https://user-images.githubusercontent.com/98431057/170605721-17d0db10-947c-49d3-b193-de98512d69cc.PNG)
 
 The challenge gave a file named flag. After downloading the file and checking the properties for the file type, the file type was file. I decided to just open the file in notepad and the flag was there.
@@ -75,4 +76,3 @@ The target website appears to only have 2 options. After looking at the page sou
 ![head](https://user-images.githubusercontent.com/98431057/170604763-1b275a5c-b256-4f85-b7bf-e7d877a9ad49.PNG)
 
 ![snip1](https://user-images.githubusercontent.com/98431057/170604784-5822ab44-b7a2-4f00-b981-77abc219daa0.PNG)
-****************************************************************************************************************************************************************************
