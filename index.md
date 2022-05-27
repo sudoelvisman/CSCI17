@@ -1,7 +1,10 @@
 ****************************************************************************************************************************************************************************
                                                                                 FINAL
 Challenge 1  Obedient Cat                                                                              
+
 ![snip1](https://user-images.githubusercontent.com/98431057/170601123-7f7d5f71-eb1d-4732-bf84-b3dbae732aed.PNG)
+
+
 The challenge gave a file named flag. After downloading the file and checking the properties for the file type, the file type was file. I decided to just open the file in notepad and the flag was there.
 
 
