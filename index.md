@@ -1,9 +1,7 @@
 ****************************************************************************************************************************************************************************
                                                                                 FINAL
 Challenge 1  Obedient Cat                                                                              
-
-![snip1](https://user-images.githubusercontent.com/98431057/170601123-7f7d5f71-eb1d-4732-bf84-b3dbae732aed.PNG)
-
+![snip1](https://user-images.githubusercontent.com/98431057/170605721-17d0db10-947c-49d3-b193-de98512d69cc.PNG)
 
 The challenge gave a file named flag. After downloading the file and checking the properties for the file type, the file type was file. I decided to just open the file in notepad and the flag was there.
 
@@ -78,20 +76,3 @@ The target website appears to only have 2 options. After looking at the page sou
 
 ![snip1](https://user-images.githubusercontent.com/98431057/170604784-5822ab44-b7a2-4f00-b981-77abc219daa0.PNG)
 ****************************************************************************************************************************************************************************
-Week 15 5/27/2022. Investigating Windows. This was a form of cyper forensics on a compromised machine. Had to find which users had admin priviliges and when were their last logins. Anything that seemed out of place. Scheduled task was created to clean system files to hide malicious activity. Discovering when escalation of privileges was done. Finding malicious file in system 32 directory that connected the host to an IP the attacker controlled.
-
-Week 13 4/23/2022. The whole set of aircrack tools is something I will have to spend more time exploring. Learned about SSID's, BSSID's, and ESSID's. WPA-2 isn't perfect and still very vulnerable. Kali has an existing word list that we used to find the password from the .cap file.
-
-Week 12 Lab 12 4/16/2022. This week in Tryhackme I deployed a vulnerable machine and used nmap to enumerate a machine for SMB shares. This was an interesting CTF because we were exploiting a network file system to root access to a Linux machine named "Kenobi." An interesting mistake towards the end of the lab was the section on Privilege escalation. If not done properly or changing to the wrong directory you would lose root access to the target machine.
-
-Week 7 Lab 5 3-12-2022. The Cryptography saga continue with Keybase. I used the windows version since it seems that Keybase is no longer available for android. This was quite fun trading little encrypted files with my partner. I sent an encrypted .txt file to my partner which they decrypted. I also received an encrypted .txt file which I decrypted. I like how Keybase shows you the hash value during the encryption. I think I will build on this and see if John the ripper can decrypt the messages.
-
-Week  6 Lab 4 3-5-2022. Cryptography is the name of the game this week. Had a chance to decrypt an RSA key. In my first few programming courses I tended to avoid using the modulo operator. I didn't know how important it was to cryptography. It was interesting to learn that assymetrical encryption is great but definitely the most inconvenient. That's why HTTPS uses symmetrical encryption.
-
-Week 5 Lab 3 2-25-2022. This week we did mobile malware analysis. We used MobSF to analyze malware files, find hashes, id's. I was able to view the full source code of mobile malware. Virustotal.com provided depper analysis from different antivirus software. It was cool that you could just upload a file or a hash. I had never used "Get-FileHash" before. I may start finding more ways to use that command.
-
-Week 4 lab 2-18-2022. This weeek we learned about various OSINT tools. Like viewdns.info and archive.org. These are great tools to track down websites that exist or may no longer exist. The information found can be used to dertermine if the website is legitimate or just used tricking search engine algorithms.
-
-Week 3 Lab 2-11-2022: Reviewed different attack vectors such as social engineering, password cracking, and malware. Tried different simluation rooms like main in the middle showing how https and vpn can prevent a hacker or another entitiy from snooping in. 
-
-Week 2 Lab:I identified different cybersecurity roles such as penetration tester and security analysts. Penetration testers are legally employed by organizations to find vulnerabilities. Security analysts are hired to detect threats before they are carried out.
